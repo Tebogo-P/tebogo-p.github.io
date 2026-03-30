@@ -1,6 +1,13 @@
 # tebogo-p.github.io
 # Markdown-CV
 
+# Interview Video 
+
+
+https://github.com/user-attachments/assets/01413cc5-c80c-4507-90c5-40622a738007
+
+
+
 # Tebogo Pii
 **STUDENT**
 
