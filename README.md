@@ -3,7 +3,9 @@
 ## Interview Video 
 
 
-[Click here to watch my Mock Interview Video](https://github.com/user-attachments/assets/01413cc5-c80c-4507-90c5-40622a738007)
+<video width="640" controls>
+  <source src="https://github.com/user-attachments/assets/01413cc5-c80c-4507-90c5-40622a738007" type="video/mp4">
+</video>
 
 
 # Tebogo Pii
