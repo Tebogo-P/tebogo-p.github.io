@@ -1,3 +1,5 @@
+# Digital-Portfolio
+
 # Markdown-CV
 
 # Tebogo Pii
@@ -48,9 +50,32 @@ As a passionate and dedicated ICT student, I am seeking an IT-related internship
   * Lecturer
   * naidoo@cput.ac.za
 
-## Interview Video 
+---
 
+## Reflection: Coding in Markdown
+**Situation:** As part of building our work readiness portfolio, I needed to code my professional CV using Markdown language.
+**Task:** The goal was to translate my academic history at CPUT and my technical capabilities into a clean, version-controllable, plain-text format.
+**Action:** For this work, I had to focus solely on lightweight markup syntax, even though my daily coding generally requires configuring Java and Spring Boot backends. The Subject Guide, which offered a thorough syntax breakdown was quite beneficial in this situation. I built organized unordered lists for my talents and correctly formatted headers for my projects using the examples in the guide.
+**Result:** I was able to create a really readable CV using only Markdown. The formatting procedure was made considerably quicker by the subject guide's introduction of GitHub Flavored Markdown, which strengthened my documentation abilities and will undoubtedly be useful for the README files in my upcoming enterprise projects.
+
+---
+
+## Mock Interview Video
 
 <video width="640" controls>
   <source src="Interview.mp4" type="video/mp4">
 </video>
+
+## Reflection: Mock Interview Video
+**Situation:** To prepare for entering the professional IT industry we needed to simulate a real-world job interview environment.
+**Task:** I had to record a mock interview video demonstrating my professional communication skills and then embed it into the digital portfolio.
+**Action:** I tried my best to develop replies using the STAR technique principles we learned in class. The subject guide was essential to my preparation because it made it clear that the video had to be shot against a plain background and last no more than two minutes. In order to organize my spoken answers, I also paid great attention to the guide's visual explanation of the STAR approach. In order to make sure I looked the part, the advisor also advised me to dress physically for the interview.
+**Result:** The recording was professional, clear, and successfully integrated into my Markdown document. My confidence in expressing my problem-solving skills significantly increased as I relied on the guide's examples of behavioral and technical questions.
+
+---
+
+## Reflection: The Use of GitHub Pages
+**Situation:** Once the Markdown CV and interview video were compiled, the portfolio needed to be made publicly accessible for grading.
+**Task:** I had to deploy my local repository to the web using the GitHub Pages hosting service.
+**Action:** I had previously worked with hosting on GitHub Pages, so the instruction served as a kind of recap of what I already knew. I had to set up the deployment after I committed my finished code. I followed the subject guide's visual, step-by-step instructions exactly. I was able to access the "Pages" portion in the sidebar, navigate to the repository settings, and set up the build to deploy from my main branch thanks to the guide.
+**Result:**The portfolio is currently operational after a flawless deployment. I had a firm grasp of how to host static sites for my next project thanks to the guide's detailed directions, which removed any uncertainty from the process.
